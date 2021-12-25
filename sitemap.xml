@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://we1005.github.io/test/index.html</loc>
+    
+    <lastmod>2021-12-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://we1005.github.io/2021/12/24/%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%89%E5%A4%A7%E7%A4%BE%E4%BC%9A%E6%80%9D%E6%BD%AE/</loc>
     
     <lastmod>2021-12-24</lastmod>
@@ -50,15 +59,6 @@
     <loc>https://we1005.github.io/2021/12/23/Current-ruling-characteristics-of-the-Communist-Party-of-China/</loc>
     
     <lastmod>2021-12-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://we1005.github.io/test/index.html</loc>
-    
-    <lastmod>2021-12-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
