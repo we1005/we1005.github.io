@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://we1005.github.io/2022/01/12/%E5%AD%A6%E6%BD%AE%E7%A0%94%E7%A9%B6%EF%BC%88%E4%B8%89%EF%BC%89%E3%80%8A%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C%E3%80%8B/</loc>
+    
+    <lastmod>2022-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://we1005.github.io/test.html</loc>
     
     <lastmod>2022-01-12</lastmod>
@@ -417,6 +426,13 @@
   
   <url>
     <loc>https://we1005.github.io/tags/%E9%87%87%E8%AE%BF/</loc>
+    <lastmod>2022-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://we1005.github.io/tags/%E5%AE%98%E6%96%B9%E8%B5%84%E6%96%99/</loc>
     <lastmod>2022-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
